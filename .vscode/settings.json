@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "graphics.h": "c",
+        "lcd_model.h": "c",
+        "sprite.h": "c",
+        "ascii_font.h": "c",
+        "cpu_speed.h": "c"
+    }
+}
